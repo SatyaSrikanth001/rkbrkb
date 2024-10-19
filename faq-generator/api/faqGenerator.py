@@ -258,3 +258,8 @@ def string_to_list(faq,list):
             list.append(temp)
     
     return list
+
+print(f"GITHUB_ACCESS_TOKEN: {GITHUB_ACCESS_TOKEN}")
+print(f"UPSTASH_ENDPOINT: {UPSTASH_ENDPOINT}")
+print(f"UPSTASH_PORT: {UPSTASH_PORT}")
+print(f"UPSTASH_PASSWORD: {UPSTASH_PASSWORD}")
